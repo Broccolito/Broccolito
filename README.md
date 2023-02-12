@@ -13,7 +13,7 @@ About me:
 
 Skill set:
 
-- Programming language: R, Python, bash, MATLAB, C++, Julia
+- Programming language: R, Python, BASH, MATLAB, C++, Julia
 - Web development: R Shiny, React, JavaScript, Node.js, HTML5, CSS
 - Project management: Git, GitHub, Markdown
 - Design: Illustrator, Photoshop

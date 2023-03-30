@@ -1,7 +1,5 @@
 #### Hi there! Welcome to Broccolito's GitHub page!
 
-<hr>
-
 About me:
 
 - My name is Wanjun Gu

@@ -3,8 +3,8 @@
 About me:
 
 - My name is Wanjun Gu
-- I am a research data analyst at [UCSD school of medicine](https://medschool.ucsd.edu/) and a data scientist at [Steps2walk](https://steps2walk.org/)
-- I am interested in exploring the potential of scientic computing in the fields of genomics, medical imaging, and epidemiology.
+- I am a graduate student at [UCSF](https://www.ucsf.edu/) and a data scientist at [Steps2walk](https://steps2walk.org/)
+- I am interested in exploring the potential of scientific computing in the fields of genomics, medical imaging, and epidemiology.
 - I am passionate about statistical programming and the open source initiative, therefore I love using R. 
 
 

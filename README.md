@@ -21,5 +21,5 @@ Skill set:
 
 Look me up/connect with me:
 
-[UCSD Profile](https://profiles.ucsd.edu/wanjun.gu), [Google Scholar](https://scholar.google.com/citations?hl=en&user=RLSWT98AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Wanjun-Gu/research), [LinkedIn](https://www.linkedin.com/in/wanjun-gu/), [Twitter](https://twitter.com/WanjunGu1), [Instagram](https://www.instagram.com/wanjun.gu.broccolito/)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=RLSWT98AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Wanjun-Gu/research), [LinkedIn](https://www.linkedin.com/in/wanjun-gu/), [Twitter](https://twitter.com/WanjunGu1), [Instagram](https://www.instagram.com/wanjun.gu.broccolito/)
 

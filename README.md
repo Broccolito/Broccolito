@@ -1,15 +1,15 @@
-#### Hi there! Welcome to Broccolito's GitHub page!
+#### Hi! Welcome to Broccolito's GitHub page!
 
-About me:
+**About me:**
 
 - My name is Wanjun Gu.
 - I am a graduate student in the Biological and Medical Informatics PhD program at [UCSF](https://www.ucsf.edu/) and a data scientist at [Steps2walk](https://steps2walk.org/).
-- I am interested in exploring the potential of scientific computing in the fields of genomics, medical imaging, and epidemiology.
+- I am interested in exploring the potential of scientific computing and machine learning in the fields of genetics, medical imaging, and epidemiology.
 - I am passionate about statistical programming and the open source initiative, therefore I love using R. 
 
 
 
-Skill set:
+**Skill set:**
 
 - Programming language: R, Python, BASH, MATLAB, C++, Julia
 - Web development: R Shiny, React, JavaScript, Node.js, HTML5, CSS

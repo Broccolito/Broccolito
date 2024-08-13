@@ -4,7 +4,7 @@
 
 - My name is Wanjun Gu.
 - I am a graduate student in the Biological and Medical Informatics PhD program at [UCSF](https://www.ucsf.edu/) and a data scientist at [Steps2walk](https://steps2walk.org/).
-- I am interested in exploring the potential of scientific computing and machine learning in the fields of genetics, medical imaging, and epidemiology.
+- I am interested in exploring the potential of scientific computing and machine learning in the fields of genetics, clinical informatics, and epidemiology.
 - I am passionate about statistical programming and the open source initiative, therefore I love using R. 
 
 

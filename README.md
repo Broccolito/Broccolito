@@ -8,17 +8,6 @@
 - I am passionate about statistical programming and the open source initiative, therefore I love using R. 
 
 
-
-**Skill set:**
-
-- Programming language: R, Python, BASH, MATLAB, C++, Julia
-- Web development: R Shiny, React, JavaScript, Node.js, HTML5, CSS
-- Project management: Git, GitHub, Markdown
-- Design: Illustrator, Photoshop
-- Miscellaneous: ImageJ
-
-
-
 Look me up/connect with me:
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=RLSWT98AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Wanjun-Gu/research), [LinkedIn](https://www.linkedin.com/in/wanjun-gu/), [Twitter](https://twitter.com/WanjunGu1), [Instagram](https://www.instagram.com/wanjun.gu.broccolito/), [Email](mailto:wanjun.gu@ucsf.edu)

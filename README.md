@@ -10,5 +10,5 @@
 
 Look me up/connect with me:
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=RLSWT98AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Wanjun-Gu/research), [LinkedIn](https://www.linkedin.com/in/wanjun-gu/), [Twitter](https://twitter.com/WanjunGu1), [Instagram](https://www.instagram.com/wanjun.gu.broccolito/), [Email](mailto:wanjun.gu@ucsf.edu)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=RLSWT98AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Wanjun-Gu/research), [LinkedIn](https://www.linkedin.com/in/wanjungu/), [Twitter](https://twitter.com/WanjunGu1), [Instagram](https://www.instagram.com/wanjun.gu.broccolito/), [Email](mailto:wanjun.gu@ucsf.edu)
 
